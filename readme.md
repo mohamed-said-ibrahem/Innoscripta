@@ -1,6 +1,10 @@
 # Innoscripta
 A RESTful-API For Pizza Ordering System Configered With React Js.
 # screenshots
+View:
+![alt text](https://github.com/mohamed-said-ibrahem/Innoscripta/blob/master/Screens/Site/1.png)
+![alt text](https://github.com/mohamed-said-ibrahem/Innoscripta/blob/master/Screens/Site/2.png)
+![alt text](https://github.com/mohamed-said-ibrahem/Innoscripta/blob/master/Screens/Site/3.png)
 Routes:
 ![alt text](https://github.com/mohamed-said-ibrahem/Innoscripta/blob/master/Screens/Routes.png)
 DataBase:
